@@ -1,11 +1,9 @@
 <script>
-	export let name;
+  import Hero from "./components/Hero.svelte";
 </script>
 
 <style>
-	h1 {
-		color: purple;
-	}
+
 </style>
 
-<h1>Hello {name}!</h1>
+<Hero />
