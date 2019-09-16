@@ -93,5 +93,9 @@ button:focus {
 }
 
 .is-size-1 {
-  font-size: 3rem;
+  font-size: 6rem;
+}
+
+.is-size-3 {
+  font-size: 1.15rem;
 }
